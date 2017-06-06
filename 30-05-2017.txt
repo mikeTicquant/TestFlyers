@@ -1,0 +1,28 @@
+-outils de creation immobilière 
+www.skysignage.com
+Programmer : 2 partie : -BDD 
+			-0
+
+	main : deplacer vers l'emission 
+	+ : dupliquer 
+	oeil : préview 
+	crayon : modifier
+
+Ajout de contenu : _ bloc TEXTE + qr code 
+
+Bien immo : - ref Agence 
+	    - ref Bien
+ 
+Avancé : création : 
+	1 _ placer les objet : 
+				image : fichier ou url 
+				video : stoker sur un server : video fichier video url video stream
+				text : office texte defilant rtf
+				widget : meteo , saints , actualité , qrcode...
+	
+	2_ remplir le contenue : frame url : ....
+				 preview .. 
+
+	Arrière plan : image fichier...
+
+	  
